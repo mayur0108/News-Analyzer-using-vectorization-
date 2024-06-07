@@ -1,4 +1,4 @@
-# News-Analyzer-using-vectorization
+# News- Authenticity-Analyzer-using-vectorization
 
 Project Overview
 The News Authenticity Analyzer is a machine learning-based tool designed to assess the authenticity of news articles. It leverages various text preprocessing techniques and multiple classification algorithms to provide a confidence score indicating the likelihood that a given news article is genuine or fake.
